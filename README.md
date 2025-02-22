@@ -1,3 +1,4 @@
-'# Ai_workshop' 
-"# Chatbot_from_zero_to_hero" 
-https://comp3401chatbot.streamlit.app/
+# 🚀 Chatbot from Zero to Hero  
+
+This repository contains materials from the **"Build Your Own Chatbot From Zero To Hero"** workshop.  
+
