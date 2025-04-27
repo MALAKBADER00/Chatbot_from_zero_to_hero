@@ -2,5 +2,5 @@
 
 This repository contains materials from the **"Build Your Own Chatbot From Zero To Hero"** workshop.  
 
-> check out 
+> check out AI_Workshop_Summary.pdf
 
